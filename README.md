@@ -1,4 +1,4 @@
-# 🤖 Agentic RAG Chatbot for Multi-Format Documents
+# 🤖  RAG Chatbot for Multi-Format Documents
 
 # 📌 Overview
 Agentic RAG (Retrieval-Augmented Generation) Chatbot is an advanced, modular, and agent-based system designed to process and understand user queries across various document types. It can parse PDFs, DOCX, PPTX, CSV, TXT, and MD files, retrieve relevant content using vector similarity, and generate accurate answers using Google Gemini 2.0 Flash.
@@ -10,9 +10,9 @@ This chatbot is best suited for:
 - Research support from large document corpora
 - Legal, academic, and business document search automation
 
-# 🤔 Why Agentic RAG?
+# 🤔 Why RAG?
 Unlike basic chatbots or naive RAG implementations, this solution:
-- Uses **LangGraph** to structure an **agent-based pipeline**
+- Uses **LangGraph** to structure an ** pipeline**
 - Implements agents for ingestion, retrieval, and LLM response
 - Supports **multi-format documents**
 - Powered by **Gemini 2.0 Flash** and **Google Embeddings 001**
